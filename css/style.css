@@ -1,6 +1,4 @@
-/*!
- * Author: Akash Bhadange
- */
+
 
  body {
   font-family: 'Open Sans', sans-serif;
@@ -52,6 +50,7 @@ header.hero {
   background-size: cover;
   color: #fff;
   padding-bottom: 80px;
+  background-attachment: fixed;
 }
 
 header.hero .hero-text {
